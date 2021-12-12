@@ -45,7 +45,7 @@ print(d("Azha"))
 ```
 
 ### Output
-![Gambar1](screenshots/1.png)
+![Gambar1](screenshot/1.png)
 
 
 ## Praktikum
@@ -82,7 +82,7 @@ if c.lower() == 't':
 ```
 
 Output Menambahkan Data
-![Gambar2](screenshots/2.png)
+![Gambar2](screenshot/2.png)
 
 - Jika ingin menampilkan data dapat menggunakan
 ```py
@@ -109,7 +109,7 @@ elif c.lower() == 'l':
             print("="*78)
 ```
 
-![Gambar3](screenshots/3.png)
+![Gambar3](screenshot/3.png)
 
 - Mengubah data dapat menggunakan 
 ```py
@@ -127,7 +127,7 @@ elif c.lower() == 'u':
             print("Nama {0} tidak ditemukan".format(nama))
 ```
 
-![Gambar4](screenshots/4.png)
+![Gambar4](screenshot/4.png)
 
 - Menghapus data dapat menggunakan
 ```py
@@ -140,7 +140,7 @@ elif c.lower() == 'h':
             print("Nama {0} Tidak Ditemukan".format(nama))
 ```
 
-![Gambar5](screenshots/5.png)
+![Gambar5](screenshot/5.png)
 
 - Mencari data dapat menggunakan
 ```py
@@ -160,7 +160,7 @@ elif c.lower() == 'h':
             print("Nama {0} Tidak Ditemukan".format(nama))
 ```
 
-![Gambar6](screenshots/6.png)
+![Gambar6](screenshot/6.png)
 
 - Jika sudah selesai input pilih menu 'K' untuk memberhentikan program
 ```py
@@ -169,4 +169,4 @@ elif c. lower() == 'k':
 ```
 
 #### Flowchart
-![Gambar7](screenshots/7.png)
+![Gambar7](screenshot/7.png)
